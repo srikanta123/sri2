@@ -1,0 +1,522 @@
+Message-ID: <637104003.35600.1493032941444.JavaMail.yConfluenceSrvc@USADC-VSCONFP01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_35599_2107828978.1493032941444"
+
+------=_Part_35599_2107828978.1493032941444
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Support Existing Web Service Upload Method and CLI</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Support Existing Web Service Upload Method and CLI</h1>
+    <div class=3D"Section1">
+        <p><strong><a href=3D"http://jira.quintiles.net/browse/RDC-7218" ti=
+tle=3D"View this issue in JIRA" class=3D"external-link" rel=3D"nofollow">Re=
+levant JIRA Stories</a></strong></p>
+<p><a href=3D"http://jira.quintiles.net/browse/RDC-7218" title=3D"View this=
+ issue in JIRA" class=3D"external-link" rel=3D"nofollow">RDC-7218</a>&nbsp;=
+-&nbsp;Support Existing Web Service Upload Method</p>
+<p><a href=3D"http://jira.quintiles.net/browse/RDC-8824" style=3D"text-deco=
+ration: underline;" title=3D"View this issue in JIRA" class=3D"external-lin=
+k" rel=3D"nofollow">RDC-8824</a>&nbsp;- Support Existing Command Line Uploa=
+d Method</p>
+<p>&nbsp;</p>
+<p><strong>Summary of Requirements</strong>:</p>
+<p>Need to support users to upload files without UI. users of the old platf=
+orm have an option to upload files via a web service client like SOAP UI.</=
+p>
+<p>Also need to support file upload via CLI.</p>
+<p>&nbsp;</p>
+<p><strong>Options</strong>:</p>
+<p>There are couple of options here, in the current RDC platform exposing a=
+ Restful web service is easy. But the existing users are still using SOAP.<=
+/p>
+<p>Assumption: Keep the solution inline with the current platform and expos=
+e service as REST.</p>
+<p>The CLI will use the web service built and will only be a client for the=
+ same.</p>
+<p>&nbsp;</p>
+<p><strong>Proposed Solution:</strong></p>
+<p>Make use of existing services in uploader component and build a composit=
+e web service to handle end to end uploader functionality.</p>
+<p>This will be synchronous service.</p>
+<p>&nbsp;</p>
+<p><strong>Structure</strong></p>
+<p><strong>Request:&nbsp;</strong></p>
+<p>Parameters: userid, password, input file location, registryid(optional) =
+and facilityid(optional)</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>&lt;?xml version=3D"1.0" encoding=3D"UTF-8"?&=
+gt;<br>&lt;FILE_UPLOAD_REQUEST&gt;</p><p>&lt;user_id&gt;uploader_webserivce=
+_client&lt;/user_id&gt;<br>&lt;password&gt;XXXXXXXX&lt;/password&gt;<br>&lt=
+;file_address&gt;c:\my documents\upload.xml&lt;/file_address&gt;<br>&lt;reg=
+istry_id&gt;4567&lt;/registry_id&gt;<br>&lt;facility_id&gt;98876&lt;/facili=
+ty_id&gt;</p><p>&lt;/FILE_UPLOAD_REQUEST&gt;</p></th>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p><strong>Response:</strong></p>
+<p>Body to contain the xml text form the file_validation table.</p>
+<p>Following are the fields from the file_validation table that has to be s=
+et in the response in xml format:</p>
+<p>FILE_ID<br>PATIENT_ID&nbsp;<br>RECORD_ID &nbsp;<br>NAME &nbsp;<br>ERROR_=
+LEVEL&nbsp;<br>RULE_ID &nbsp;<br>MESSAGE &nbsp;<br>STATUS&nbsp;<br>FORM_REC=
+ORD_ID&nbsp;<br>FIELD_NAME</p>
+<p><strong>Sample Response</strong></p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>&lt;?xml version=3D"1.0" encoding=3D"UTF-8"?&=
+gt;<br>&lt;FILE_UPLOAD_RESPONSE&gt;</p><p><span>&lt;Record&gt;</span><br><s=
+pan>&lt;FILE_ID&gt;123&lt;/FILE_ID&gt;</span><br><span>&lt;PATIENT_ID&gt;22=
+33&lt;/PATIENT_ID&gt;</span><br><span>&lt;RECORD_ID&gt;1&lt;/RECORD_ID&gt;<=
+/span><br><span>&lt;NAME&gt;&lt;/NAME&gt;</span><br><span>&lt;ERROR_LEVEL&g=
+t;INFO&lt;/ERROR_LEVEL&gt;</span><br><span>&lt;RULE_ID&gt;0000&lt;/RULE_ID&=
+gt;</span><br><span>&lt;MESSAGE&gt;Record Saved Successfully&lt;/MESSAGE&gt=
+;</span><br><span>&lt;STATUS&gt;Info&lt;/STATUS&gt;</span><br><span>&lt;FOR=
+M_RECORD_ID&gt;1345&lt;/FORM_RECORD_ID&gt;</span><br><span>&lt;FIELD_NAME&g=
+t;&lt;/FIELD_NAME&gt;</span><br><span>&lt;/Record&gt;</span><br>&lt;Record&=
+gt;<br>&lt;FILE_ID&gt;123&lt;/FILE_ID&gt;<br>&lt;PATIENT_ID&gt;2233&lt;/PAT=
+IENT_ID&gt;<br>&lt;RECORD_ID&gt;2&lt;/RECORD_ID&gt;<br>&lt;NAME&gt;Date_fie=
+ld&lt;/NAME&gt;<br>&lt;ERROR_LEVEL&gt;CRITICAL&lt;/ERROR_LEVEL&gt;<br>&lt;R=
+ULE_ID&gt;INT001&lt;/RULE_ID&gt;<br>&lt;MESSAGE&gt;Invalid date format&lt;/=
+MESSAGE&gt;<br>&lt;STATUS&gt;Error&lt;/STATUS&gt;<br>&lt;FORM_RECORD_ID&gt;=
+-1&lt;/FORM_RECORD_ID&gt;<br>&lt;FIELD_NAME&gt;Date_Field&lt;/FIELD_NAME&gt=
+;<br>&lt;/Record&gt;<br>&lt;/FILE_UPLOAD_RESPONSE&gt;</p></th>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong><br></strong></p>
+<p><strong>Existing services &amp; updates</strong></p>
+<p>FileUploadRestControllerService: This class does the following User auth=
+entication, upload file to S3 bucket, make entry to File_upload table and s=
+end message to MQ for processing.</p>
+<p><strong>Limiting the Max number of web service uploads:</strong></p>
+<p><strong>T</strong>here is a need to limit the number of file uploads via=
+ the web service and the CLI as the number of threads opened and waiting fo=
+r the processing has high cost of I/O and memory both on tomcat and oracle =
+servers.</p>
+<p>The mts properties file can be used to set the&nbsp;<em><strong>max_file=
+_uploads_allowed</strong></em>:50(example)</p>
+<p>When the request is authenticated before calling the&nbsp;processFileUpl=
+oad method. Keep a global variable(in the registry) and increment is before=
+ starting the upload and it against the max limit for the registry. If limi=
+t is reached set response message as "Max number of uploads reached. Please=
+ try after sometime".</p>
+<p><strong>Updates to the service:</strong></p>
+<p>Remove the existing response which is just returning a success based on =
+posting of message to the queue.</p>
+<p>If the registryid and/or facilityid is not provided in the request, fetc=
+h them from querying "ACCOUNT_REGISTRY" table and set it to context. if thi=
+s fetches more than one result set, set response with error asking user to =
+provide registry and facility information.</p>
+<p>Set only File_id, Status and Message in the response if error occurs. Si=
+milarly handle authentication errors(no file_id if authentication fails).</=
+p>
+<p><s>Call the&nbsp;checkUploadStatus in the FileUploadSerivce class in a <=
+em><strong>loop with 30 sec delay.</strong></em></s></p>
+<p><em><strong>Add a listener to an outbound queue, when a completed messag=
+e arrives on the outbound queue,&nbsp;</strong></em></p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><s>uploadedFileStatus =3D uploaderEntityRepos=
+itory.findUploadedFileStatusByFileId(uploadedFileId);</s></p><p>&nbsp;</p><=
+p><s>if(uploadedFileStatus.getStatus().equalsIgnoreCase(SUCCESS)</s></p><p>=
+<s>|| uploadedFileStatus.getStatus().equalsIgnoreCase(JMS_FAILURE)</s><br><=
+s>|| uploadedFileStatus.getStatus().equalsIgnoreCase(FILE_LEVEL_XSD_FAILURE=
+)</s><br><s>|| uploadedFileStatus.getStatus().equalsIgnoreCase(USER_DETAIL_=
+COMPARISION_FAILURE)</s><br><s>|| uploadedFileStatus.getStatus().equalsIgno=
+reCase(EXTENSION_CHECK_FAILURE)</s><br><s>|| uploadedFileStatus.getStatus()=
+.equalsIgnoreCase(REGISTRY_CHECK_FAILURE)</s><br><s>|| uploadedFileStatus.g=
+etStatus().equalsIgnoreCase(FILESIZE_CHECK_MIN_FAILURE)</s><br><s>|| upload=
+edFileStatus.getStatus().equalsIgnoreCase(FILESIZE_CHECK_MAX_FAILURE)</s><b=
+r><s>|| uploadedFileStatus.getStatus().equalsIgnoreCase(FILE_VALIDATION_FAI=
+LURE)</s><br><s>|| uploadedFileStatus.getStatus().equalsIgnoreCase(DUPLICAT=
+E_CHECK_FAIURE) || uploadedFileStatus</s><br><s>.getStatus().equalsIgnoreCa=
+se(CANCEL) || uploadedFileStatus.getStatus().equalsIgnoreCase(SPECIAL_CHARA=
+CTER_FAILURE))</s></p></th>
+</tr>
+</tbody>
+</table>
+</div>
+<p><s>If this above condition matches.</s> Write a new service method to fe=
+tch the details from the file_validation table.</p>
+<p>In the&nbsp;UploaderEntityRepository interface, write a new query</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>@Query("SELECT f FROM FileValidationEntity f =
+WHERE <a href=3D"http://f.id" class=3D"external-link" rel=3D"nofollow">f.id=
+</a> =3D (:fid) )")<br> FileValidationEntity findUploadedFileDetailsByFileI=
+d(@Param("fid") long fid);</p></th>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Build an xml document from the resultset and set the response.</p>
+<p>&nbsp;</p>
+<p><strong>Talend Changes:</strong></p>
+<p>As part of the route at the end when the job finishes, push a message wi=
+th completion status, file_id to the outbound queue.</p>
+<p>&nbsp;</p>
+<p><strong>Open Questions:</strong></p>
+<p>Service timeout &nbsp;- challenge as the processing of the file is async=
+hronous.</p>
+<p>&nbsp;</p>
+<p><strong>In Case SOAP is decided as the protocol then the following chang=
+es have to be done:</strong></p>
+<p>Option 1: Add a new ENDPOINT in RDC to support SOAP.</p>
+<p>Option 2: Build a SOAP service in Talend, use the existing WSDL file add=
+ the updated parameters to the request and response. Call the above rest se=
+rvice from Talend.</p>
+<p>Option 2 is less risky compared to option 1 and the amount of changes an=
+d effort are also less in option 2.</p>
+<h2 id=3D"SupportExistingWebServiceUploadMethodandCLI-CommandLineInterfacet=
+ouploadfile">Command Line Interface to upload file</h2>
+<p>The Command Line interface will be a web service client to the exposed s=
+ervice form the above section.</p>
+<p>In order to build the web service client and generate an exe there few</=
+p>
+<p>Available Options:&nbsp;</p>
+<ol>
+<li>Build a rest client and wrap it in executable jar and convert the execu=
+table jar to an EXE via&nbsp;<a href=3D"http://launch4j.sourceforge.net/" c=
+lass=3D"external-link" rel=3D"nofollow">http://launch4j.sourceforge.net/</a=
+></li>
+<li>Use the packager in Java 8&nbsp;<a href=3D"http://docs.oracle.com/javas=
+e/8/docs/technotes/tools/windows/javapackager.html" class=3D"external-link"=
+ rel=3D"nofollow">http://docs.oracle.com/javase/8/docs/technotes/tools/wind=
+ows/javapackager.html</a>&nbsp;to convert to exe</li>
+<li>Write a .net rest client</li>
+</ol>
+<p>Option 2 seems most viable.&nbsp;</p>
+<p>The java packager tools has command to generate a exe or msi directly. N=
+o need to add any jars externally.</p>
+<p>Ant script needs to be written to invoke the tool with the right paramet=
+ers.</p>
+<p>May need a small POC.</p>
+<p>For the rest client - sample method</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><pre class=3D"lang-java prettyprint prettyprinte=
+d"><code><span class=3D"typ" style=3D"color: rgb(43,145,175);">HttpHeaders<=
+/span><span class=3D"pln" style=3D"color: rgb(48,51,54);"> headers </span><=
+span class=3D"pun" style=3D"color: rgb(48,51,54);">=3D</span><span class=3D=
+"pln" style=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"kwd" styl=
+e=3D"color: rgb(16,16,148);">new</span><span class=3D"pln" style=3D"color: =
+rgb(48,51,54);">&nbsp;</span><span class=3D"typ" style=3D"color: rgb(43,145=
+,175);">HttpHeaders</span><span class=3D"pun" style=3D"color: rgb(48,51,54)=
+;">();</span><span class=3D"pln" style=3D"color: rgb(48,51,54);">&nbsp;</sp=
+an></code></pre><pre class=3D"lang-java prettyprint prettyprinted"><code><s=
+pan class=3D"pln" style=3D"color: rgb(48,51,54);">headers</span><span class=
+=3D"pun" style=3D"color: rgb(48,51,54);">.</span><span class=3D"pln" style=
+=3D"color: rgb(48,51,54);">setContentType</span><span class=3D"pun" style=
+=3D"color: rgb(48,51,54);">("multipart/form-data"</span><span class=3D"pun"=
+ style=3D"color: rgb(48,51,54);">);</span><span class=3D"pln" style=3D"colo=
+r: rgb(48,51,54);">&nbsp;</span><span class=3D"pln" style=3D"color: rgb(48,=
+51,54);">&nbsp;</span></code></pre><pre class=3D"lang-java prettyprint pret=
+typrinted"><code><span class=3D"typ" style=3D"color: rgb(43,145,175);">Mult=
+iValueMap</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">&lt;</s=
+pan><span class=3D"typ" style=3D"color: rgb(43,145,175);">String</span><spa=
+n class=3D"pun" style=3D"color: rgb(48,51,54);">,</span><span class=3D"pln"=
+ style=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"typ" style=3D"=
+color: rgb(43,145,175);">String</span><span class=3D"pun" style=3D"color: r=
+gb(48,51,54);">&gt;</span><span class=3D"pln" style=3D"color: rgb(48,51,54)=
+;"> map</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">=3D</span=
+><span class=3D"pln" style=3D"color: rgb(48,51,54);">&nbsp;</span><span cla=
+ss=3D"kwd" style=3D"color: rgb(16,16,148);">new</span><span class=3D"pln" s=
+tyle=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"typ" style=3D"co=
+lor: rgb(43,145,175);">LinkedMultiValueMap</span><span class=3D"pun" style=
+=3D"color: rgb(48,51,54);">&lt;</span><span class=3D"typ" style=3D"color: r=
+gb(43,145,175);">String</span><span class=3D"pun" style=3D"color: rgb(48,51=
+,54);">,</span><span class=3D"pln" style=3D"color: rgb(48,51,54);">&nbsp;</=
+span><span class=3D"typ" style=3D"color: rgb(43,145,175);">String</span><sp=
+an class=3D"pun" style=3D"color: rgb(48,51,54);">&gt;();</span></code></pre=
+><pre class=3D"lang-java prettyprint prettyprinted"><code><span class=3D"pl=
+n" style=3D"color: rgb(48,51,54);">map</span><span class=3D"pun" style=3D"c=
+olor: rgb(48,51,54);">.</span><span class=3D"pln" style=3D"color: rgb(48,51=
+,54);">add</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">(</spa=
+n><span class=3D"str" style=3D"color: rgb(125,39,39);">"email"</span><span =
+class=3D"pun" style=3D"color: rgb(48,51,54);">,</span><span class=3D"pln" s=
+tyle=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"str" style=3D"co=
+lor: rgb(125,39,39);">"first.last@example.com"</span><span class=3D"pun" st=
+yle=3D"color: rgb(48,51,54);">);</span><span class=3D"pln" style=3D"color: =
+rgb(48,51,54);">&nbsp;</span><span class=3D"pln" style=3D"color: rgb(48,51,=
+54);">&nbsp;</span></code></pre><pre class=3D"lang-java prettyprint prettyp=
+rinted"><code><span class=3D"typ" style=3D"color: rgb(43,145,175);">HttpEnt=
+ity</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">&lt;</span><s=
+pan class=3D"typ" style=3D"color: rgb(43,145,175);">MultiValueMap</span><sp=
+an class=3D"pun" style=3D"color: rgb(48,51,54);">&lt;</span><span class=3D"=
+typ" style=3D"color: rgb(43,145,175);">String</span><span class=3D"pun" sty=
+le=3D"color: rgb(48,51,54);">,</span><span class=3D"pln" style=3D"color: rg=
+b(48,51,54);">&nbsp;</span><span class=3D"typ" style=3D"color: rgb(43,145,1=
+75);">String</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">&gt;=
+&gt;</span><span class=3D"pln" style=3D"color: rgb(48,51,54);"> request </s=
+pan><span class=3D"pun" style=3D"color: rgb(48,51,54);">=3D</span><span cla=
+ss=3D"pln" style=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"kwd"=
+ style=3D"color: rgb(16,16,148);">new</span><span class=3D"pln" style=3D"co=
+lor: rgb(48,51,54);">&nbsp;</span><span class=3D"typ" style=3D"color: rgb(4=
+3,145,175);">HttpEntity</span><span class=3D"pun" style=3D"color: rgb(48,51=
+,54);">&lt;</span><span class=3D"typ" style=3D"color: rgb(43,145,175);">Mul=
+tiValueMap</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">&lt;</=
+span><span class=3D"typ" style=3D"color: rgb(43,145,175);">String</span><sp=
+an class=3D"pun" style=3D"color: rgb(48,51,54);">,</span><span class=3D"pln=
+" style=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"typ" style=3D=
+"color: rgb(43,145,175);">String</span><span class=3D"pun" style=3D"color: =
+rgb(48,51,54);">&gt;&gt;(</span><span class=3D"pln" style=3D"color: rgb(48,=
+51,54);">map</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">,</s=
+pan><span class=3D"pln" style=3D"color: rgb(48,51,54);"> headers</span><spa=
+n class=3D"pun" style=3D"color: rgb(48,51,54);">);</span></code></pre><pre =
+class=3D"lang-java prettyprint prettyprinted"><code><span class=3D"typ" sty=
+le=3D"color: rgb(43,145,175);">ResponseEntity</span><span class=3D"pun" sty=
+le=3D"color: rgb(48,51,54);">&lt;</span><span class=3D"typ" style=3D"color:=
+ rgb(43,145,175);">String</span><span class=3D"pun" style=3D"color: rgb(48,=
+51,54);">&gt;</span><span class=3D"pln" style=3D"color: rgb(48,51,54);"> re=
+sponse </span><span class=3D"pun" style=3D"color: rgb(48,51,54);">=3D</span=
+><span class=3D"pln" style=3D"color: rgb(48,51,54);"> restTemplate</span><s=
+pan class=3D"pun" style=3D"color: rgb(48,51,54);">.</span><span class=3D"pl=
+n" style=3D"color: rgb(48,51,54);">postForEntity</span><span class=3D"pun" =
+style=3D"color: rgb(48,51,54);">(</span><span class=3D"pln" style=3D"color:=
+ rgb(48,51,54);"> url</span><span class=3D"pun" style=3D"color: rgb(48,51,5=
+4);">,</span><span class=3D"pln" style=3D"color: rgb(48,51,54);"> request <=
+/span><span class=3D"pun" style=3D"color: rgb(48,51,54);">,</span><span cla=
+ss=3D"pln" style=3D"color: rgb(48,51,54);">&nbsp;</span><span class=3D"typ"=
+ style=3D"color: rgb(43,145,175);">String</span><span class=3D"pun" style=
+=3D"color: rgb(48,51,54);">.</span><span class=3D"kwd" style=3D"color: rgb(=
+16,16,148);">class</span><span class=3D"pln" style=3D"color: rgb(48,51,54);=
+">&nbsp;</span><span class=3D"pun" style=3D"color: rgb(48,51,54);">);</span=
+></code></pre><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></th>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_35599_2107828978.1493032941444--
